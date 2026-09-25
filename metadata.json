@@ -1,0 +1,6 @@
+{
+  "name": "CareerHub Pakistan",
+  "description": "Pakistan's premier employment and government jobs portal. Discover federal and provincial government vacancies, private sector careers, CV builder, application tracker, and career resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
